@@ -1,0 +1,28 @@
+.bookstore-locator {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: rgb(236, 30, 30);
+
+  }
+  
+  .bookstore-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .bookstore-item {
+    margin-bottom: 5px;
+  }
+  
+  .loading {
+    font-style: italic;
+    font-size: 50px;
+    color: rgb(236, 30, 30);
+  }
+  
